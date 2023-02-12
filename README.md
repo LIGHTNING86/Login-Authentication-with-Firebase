@@ -12,4 +12,4 @@ Get the icons used in the page from here:
 <a href="https://ionic.io/ionicons">Ionicons</a>
 
 # Preview Images
-<img src=""
+<img src="https://github.com/LIGHTNING86/Login-Authentication-with-Firebase/blob/main/assets/home_page.png"/>
