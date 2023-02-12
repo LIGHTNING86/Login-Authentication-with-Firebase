@@ -11,5 +11,13 @@ The background image used is taken from <a href="https://wall.alphacoders.com/bi
 Get the icons used in the page from here:
 <a href="https://ionic.io/ionicons">Ionicons</a>
 
-# Preview Images
+# Preview Images:
+
+<h3>1. Home Page</h3>
 <img src="https://github.com/LIGHTNING86/Login-Authentication-with-Firebase/blob/main/assets/home_page.png"/>
+<br><br>
+<h3> 2. Login Page</h3>
+<img src="https://github.com/LIGHTNING86/Login-Authentication-with-Firebase/blob/main/assets/login_page.png"/>
+<br><br>
+<h3> 2. Register Page</h3>
+<img src="https://github.com/LIGHTNING86/Login-Authentication-with-Firebase/blob/main/assets/register_page.png"/>
