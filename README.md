@@ -19,5 +19,5 @@ Get the icons used in the page from here:
 <h3> 2. Login Page</h3>
 <img src="https://github.com/LIGHTNING86/Login-Authentication-with-Firebase/blob/main/assets/login_page.png"/>
 <br><br>
-<h3> 2. Register Page</h3>
+<h3> 3. Register Page</h3>
 <img src="https://github.com/LIGHTNING86/Login-Authentication-with-Firebase/blob/main/assets/register_page.png"/>
